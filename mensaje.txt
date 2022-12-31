@@ -1,9 +1,5 @@
 Hola mundo de caramelo
 adios venuz
-
-
-linia1
-linia2
-
 liniax
 liniay
+
